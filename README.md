@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mariavarga, intern at Abilian.
+- 👀 I’m interested in Python, JavaScript.
+- 🌱 I’m currently learning Python, JavaScript.
